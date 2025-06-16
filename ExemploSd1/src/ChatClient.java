@@ -2,7 +2,7 @@ import java.net.*;
 import java.io.*;
 public class ChatClient {
     public static void main(String[] args) throws Exception {
-        Socket socket = new Socket("192.168.0.5", 2000);
+        Socket socket = new Socket("localhost", 2000);
         BufferedReader in = new BufferedReader(new
                 InputStreamReader(socket.getInputStream()));
         PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
