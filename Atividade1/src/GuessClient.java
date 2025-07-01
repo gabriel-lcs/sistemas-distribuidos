@@ -11,16 +11,22 @@ public class GuessClient {
         String fromServer;
         String fromUser;
 
+        int tentativas = 0;
+
         // Mensagem inicial do servidor
         System.out.println(in.readLine());
 
         while (true) {
             System.out.print("Seu palpite: ");
             fromUser = stdIn.readLine();
+            tentativas++;
             out.println(fromUser);
             fromServer = in.readLine();
             System.out.println("Servidor: " + fromServer);
+
             if (fromServer.startsWith("Sou o Servidor e informo que Acertou! Parabens!")) {
+                out.println("TENTATIVAS=" + tentativas);
+                System.out.println("Quantidade de tentativas: " + tentativas);
                 break;
             }
         }
