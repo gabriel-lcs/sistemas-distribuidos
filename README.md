@@ -13,3 +13,6 @@ Cliente 1 tenta 3 vezes
 Cliente 2 tenta 1 vezes
 
 O cliente 2 será o vencedor
+
+**Atividade 7**
+Apenas a execução dos códigos que ja funcionam. O objetivo é entender e aprender o conteudo do código.
