@@ -10,7 +10,9 @@ Nos primeiro exemplo é um código onde consigo conectar dois terminais, casa eu
 Façam modificação em que um servidor defina um vencedor dentre clientes por meio de um critério que você vai escolher.
 
 Por exemplo:
+
 Cliente 1 tenta 3 vezes
+
 Cliente 2 tenta 1 vezes
 
 O cliente 2 será o vencedor
