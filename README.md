@@ -6,7 +6,8 @@ Nos primeiro exemplo é um código onde consigo conectar dois terminais, casa eu
 
 
 **Atividade 1**
-Façam modificação em que um servidor defina um vencendor dentre clientes por meio de um critério que você vai escolher.
+
+Façam modificação em que um servidor defina um vencedor dentre clientes por meio de um critério que você vai escolher.
 
 Por exemplo:
 Cliente 1 tenta 3 vezes
@@ -15,4 +16,5 @@ Cliente 2 tenta 1 vezes
 O cliente 2 será o vencedor
 
 **Atividade 7**
-Apenas a execução dos códigos que ja funcionam. O objetivo é entender e aprender o conteudo do código.
+
+Apenas a execução dos códigos que já funcionam. O objetivo é entender e aprender o conteúdo do código.
