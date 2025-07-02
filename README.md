@@ -1,11 +1,11 @@
 Alguns códigos disponibilizados pelo professor para o estudo na cadeira de sistemas distribuidos
 
-##**Exemplo 1**
+## **Exemplo 1**
 
 Nos primeiro exemplo é um código onde consigo conectar dois terminais, casa eu queira fazer isso localmente eu rodo o servidor(ChatServer) em uma porta que não esteja sendo usada (por exemplo a 2000) e depois rodar o cliente(ChatClient) com o host sendo "localhost". Caso queira fazer isso com duas maquinas diferentes, em uma maquina é preciso ter o código do servidor(ChatServer) com uma porta que não esteja sendo usada e na outra máquina ter o cliente(ChatClient) e o host precisa ser o ip da outra máquina
 
 
-**Atividade 1**
+## **Atividade 1**
 
 Façam modificação em que um servidor defina um vencedor dentre clientes por meio de um critério que você vai escolher.
 
@@ -15,6 +15,6 @@ Cliente 2 tenta 1 vezes
 
 O cliente 2 será o vencedor
 
-**Atividade 7**
+## **Atividade 7**
 
 Apenas a execução dos códigos que já funcionam. O objetivo é entender e aprender o conteúdo do código.
