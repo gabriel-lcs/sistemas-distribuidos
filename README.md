@@ -1,2 +1,2 @@
 # **SISTEMAS DISTRIBUIDOS**
-O conteúdo desse reposítório é deixar salvo os avanços do desenvolvimento de um compilador na cadeira de compiladores da Universidade Federal do Ceará.
+O conteúdo desse reposítório é deixar salvo o estudo de sistemas na cadeira de sistemas distribuidos da Universidade Federal do Ceará.
